@@ -3,7 +3,7 @@
 - 💞️ Love programming
 - 🌱 Hope not bald...
 - 💞️ Aspiring to travel north to make a fortune
-- 📫 My email ：jay20001204@gmail.com\jay20001204@163.com
+- 📫 My email ：
 
 <!---
 paopaojay/paopaojay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
